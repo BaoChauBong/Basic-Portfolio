@@ -2,12 +2,12 @@
 
 
 ## Screenshots
-| <img src="Portfolio\images\Screenshots\Screenshots (2)" /> 
+<img src="Portfolio/images/screenshots/Screenshot (2).png" /> 
 
-<img src="Portfolio\images\Screenshots\Screenshots (3)" /> 
+<img src="Portfolio/images/screenshots/Screenshot (3).png" /> 
 
-<img src="Portfolio\images\Screenshots\Screenshots (4)" /> 
+<img src="Portfolio/images/screenshots/Screenshot (4).png" /> 
 
-<img src="C:\Users\Admin\Desktop\Portfolio\Portfolio\images\Screenshots\Screenshots (5)" /> 
+<img src="Portfolio/images/screenshots/Screenshot (5).png" /> 
 
-<img src="C:\Users\Admin\Desktop\Portfolio\Portfolio\images\Screenshots\Screenshots (6)" /> 
+<img src="Portfolio/images/screenshots/Screenshot (6).png" /> 
