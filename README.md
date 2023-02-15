@@ -2,7 +2,7 @@
 
 
 ## Screenshots
-<img src="Portfolio/images/screenshots/Screenshot (2).png" /> 
+<img src="images/screenshots/Screenshot (2).png" /> 
 
 <img src="Portfolio/images/screenshots/Screenshot (3).png" /> 
 
